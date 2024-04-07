@@ -1,5 +1,5 @@
 import java.util.Arrays;
-//Arrays.sort example
+
 public class StringSort {
     public static void main(String[] args) {
         String[] instruments = {"BMW", "Volkswagen", "Ford","Mercedes", "Audi"};
