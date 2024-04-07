@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class SortableArrayExample {
+public class SortableArray {
     public static void main(String[] args) {
         // Declare and initialize an array of integers
         int[] numbers = {5, 2, 9, 1, 7};
