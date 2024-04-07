@@ -1,2 +1,7 @@
 # INFO-4190
-This a GIT Repo 
+
+## Integer Sorting Feature
+
+This feature allows you to sort an array of integers in ascending or descending order.
+
+
