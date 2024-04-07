@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class StringSort {
+public class StringSortS {
     public static void main(String[] args) {
         String[] instruments = {"BMW", "Volkswagen", "Ford","Mercedes", "Audi"};
 
