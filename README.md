@@ -6,4 +6,4 @@ This feature allows you to sort an array of integers in ascending Order. To Use 
 
 ## Array Sorting Feature
 
-This feature allows you to sort an array of Texts in alphabetical order. To use this program, edit the **"string.js"** program with 
+This feature allows you to sort an array of Texts in alphabetical order. To use this program, edit the **"string.js"** program with notepad or and IDE and simply add values in 'String[] cars' and run the code. 
