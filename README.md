@@ -2,14 +2,8 @@
 
 ## Integer Sorting Feature
 
-This feature allows you to sort an array of integers in ascending or descending order.
+This feature allows you to sort an array of integers in ascending Order. To Use this program, edit the **integers.js** program with notepad or and IDE and simply add values in int[] and run the code.
 
 ## Array Sorting Feature
 
-This feature allows you to sort an array of Texts in alphabetical order.
-
-To use this feature, call the `sortIntegers(int[] array, boolean ascending)` method, where `array` is the array of integers to be sorted, and `ascending` is a boolean indicating whether to 
-
-
-This is a new Test 
-
+This feature allows you to sort an array of Texts in alphabetical order. To use this program, edit the **"string.js"** program with 
