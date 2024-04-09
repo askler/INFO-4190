@@ -1,14 +1,14 @@
 import java.util.Arrays;
 
-public class StringSortS {
+public class StringSort {
     public static void main(String[] args) {
-        String[] instruments = {"BMW", "Volkswagen", "Ford","Mercedes", "Audi"};
+        String[] cars = {"BMW", "Volkswagen", "Ford","Mercedes", "Audi"};
 
-        Arrays.sort(instruments);
+        Arrays.sort(cars);
 
-        System.out.println("Sorted Instruments:");
-        for (String instrument : instruments) {
-            System.out.println(instrument);
+        System.out.println("Sorted Manufacturers in Alphabetical Order:");
+        for (String car : cars) {
+            System.out.println(car);
         }
     }
 }
